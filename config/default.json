@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://iamzeeali:globus2015@glcluster-4yhn2.mongodb.net/codemedia_02?retryWrites=true&w=majority",
+    "jwtSecret": "boostIsTheSecretOfMyEnergy",
+    "githubClientId": "2624224a15e94b8b4ae5",
+    "githubSecret": "87a21e2a19a1e34048f6ed1324389988535a72d0"
+}
